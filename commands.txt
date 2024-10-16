@@ -4,3 +4,4 @@ git status
 git commit -m 
 git clone
 git remote -v
+git remote set-url
